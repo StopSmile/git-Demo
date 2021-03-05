@@ -3,3 +3,4 @@ Wall of Shields
 Standing strong
 On this their chosen battle field
 Hello world
+Java is beautiful
